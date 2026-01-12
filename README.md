@@ -3,11 +3,14 @@
 A Django-based web application for managing spy cats, their missions, and targets.
 
 
+## Requirements
+Python version >=3.12
+
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/TwoUfo/SpyCatAgency.git
 cd SpyCatAgency
 ```
 
@@ -19,7 +22,7 @@ source venv/bin/activate
 
 3. Install dependecies
 ```bash
-pip isntall poetry
+pip install poetry
 poetry install
 ```
 
