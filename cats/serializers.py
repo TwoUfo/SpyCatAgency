@@ -9,3 +9,9 @@ class CatListCreateSerializer(ModelSerializer[Cat]):
     class Meta:
         model = Cat
         fields = ("id", "name", "expirience", "salary", "breed")
+
+
+class CatRetrieveUpdateDestroySerializer(ModelSerializer[Cat]):
+    class Meta:
+        model = Cat
+        fields = ("id", "name", "expirience", "salary", "breed")
