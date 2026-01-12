@@ -7,7 +7,7 @@ A Django-based web application for managing spy cats, their missions, and target
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/TwoUfo/SpyCatAgency.git
 cd SpyCatAgency
 ```
 
