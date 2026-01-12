@@ -3,6 +3,9 @@
 A Django-based web application for managing spy cats, their missions, and targets.
 
 
+## Requirements
+Python version >=3.12
+
 ## Installation
 
 1. Clone the repository:
