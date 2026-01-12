@@ -19,7 +19,7 @@ source venv/bin/activate
 
 3. Install dependecies
 ```bash
-pip isntall poetry
+pip install poetry
 poetry install
 ```
 
