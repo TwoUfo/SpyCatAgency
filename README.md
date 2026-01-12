@@ -38,6 +38,6 @@ I decided to use light db sqlite directly in the project, so you do not need to 
 
 ## Endpoints
 ```
-https://web.postman.co/workspace/My-Workspace~5eaba7ac-057a-4e4d-89c0-29ffc2be9fe3/request/33720231-398be215-4f61-4e54-8958-c44b749869e1?action=share&source=copy-link&creator=33720231
+https://www.postman.com/security-cosmonaut-36081406/workspace/publicworkspace/request/33720231-ca6745ed-4038-4e4f-a7fa-5fe73db5a8c6?action=share&source=copy-link&creator=33720231
 ```
 Pay attention: you need to use your own object UUIDs in the requests.
