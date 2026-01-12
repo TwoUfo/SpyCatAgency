@@ -1,6 +1,4 @@
-from typing import Any
-
-from rest_framework.serializers import ModelSerializer, ValidationError
+from rest_framework.serializers import ModelSerializer
 
 from cats.models import Cat
 

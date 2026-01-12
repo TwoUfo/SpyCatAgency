@@ -19,6 +19,8 @@ INSTALLED_APPS = [
     'rest_framework',
 
     'cats',
+    'missions',
+    'targets',
 ]
 
 MIDDLEWARE = [

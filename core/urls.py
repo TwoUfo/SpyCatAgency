@@ -8,6 +8,8 @@ urlpatterns = [
         include(
             [
                 path("", include("cats.urls")),
+                path("", include("missions.urls")),
+                path("", include("targets.urls")),
             ],
         ),
     ),
